@@ -1,6 +1,7 @@
 # CATATAN!
 - Pastikan Docker telah terinstall di PC!
 - Pastikan terhubung ke jaringan internet!
+- Saya tidak menggunakan docker file pada repository ini!
 
 # LANGKAH - LANGKAH
 1. Clone atau download repository ini
